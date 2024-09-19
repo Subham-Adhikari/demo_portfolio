@@ -333,26 +333,26 @@ h1{
 }    
 
 #cardOne{
-    background-image: url(../THE_MAIN_WEBSITE/images/projects/Project1.png);
+    background-image: url(./projects/Project1.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
 
 #cardTwo{
-    background-image: url(../THE_MAIN_WEBSITE/images/projects/Project2.png);
+    background-image: url(./projects/Project2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #cardThree{
-    background-image: url(../THE_MAIN_WEBSITE/images/projects/Project3.png);
+    background-image: url(./projects/Project3.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #cardFour{
-    background-image: url(../THE_MAIN_WEBSITE/images/projects/Project4.png);
+    background-image: url(./projects/Project4.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
